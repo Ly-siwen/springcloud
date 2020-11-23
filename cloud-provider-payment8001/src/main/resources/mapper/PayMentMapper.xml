@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="cn.siwen.dao.PayMentDao">
+    <resultMap id="basepayment" type="cn.siwen.entity.Payment">
+        <id column="id" property="id"></id>
+        <result column="serial"  property="serial"></result>
+    </resultMap>
+
+
+    <insert id="addPayMent" parameterType="cn.siwen.entity.Payment">
+    insert  into payment(serial) values(#{serial})
+    </insert>
+
+    <select id="fidPayMent" parameterType="Long" resultMap="basepayment">
+        select * from payment where id=#{id}
+    </select>
+
+
+</mapper>

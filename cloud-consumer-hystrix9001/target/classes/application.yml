@@ -1,0 +1,16 @@
+server:
+  port: 9001
+
+feign:
+  hystrix:
+    enabled: true #默认false
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: "*"
