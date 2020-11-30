@@ -9,11 +9,19 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/clound-server-eureka7001/pom.xml" />
-        <option value="$PROJECT_DIR$/cloud-provider-payment-cs8007/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-strem-provider8801/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-provider8803/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/cloud-config-center-3377/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

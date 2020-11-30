@@ -12,23 +12,36 @@
         <module name="cloud-server-eureka7002" />
         <module name="cloud-server-eureka7001" />
         <module name="cloud-provider-payment-cs8006" />
-        <module name="cloud-provider-payment-cs8006 (2)" />
-        <module name="cloud-provider-payment-cs8006 (1)" />
+        <module name="cloud-stream-provider8802" />
+        <module name="cloud-provider-payment-hx8008" />
+        <module name="cloud-config-center-3355" />
+        <module name="cloud-consumer-order-zk80" />
+        <module name="cloud-provider-payment-cs8007" />
         <module name="cloud-provider-payment8003" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
-        <module name="cloud-provider-payment-cs8007" />
-        <module name="cloud-common" />
-        <module name="cloud-provider-payment-zk8005" />
+        <module name="cloud-strem-provider" />
+        <module name="cloud-config-center-3377" />
+        <module name="cloud-stream-provider8802 (1)" />
+        <module name="cloud-strem-provider8801" />
+        <module name="cloud-config-center-3388" />
+        <module name="cloud-provider-payment-cs8006 (1)" />
         <module name="cloud-provider-payment-zk8004" />
-        <module name="cloud-provider-payment-hx8008" />
+        <module name="cloud-provider-payment-zk8005" />
         <module name="cloud-consumer-hystrix9001" />
+        <module name="cloud-common" />
         <module name="cloud-consumer-order-onpenfegin80" />
         <module name="cloud-gateway-gateway9527" />
         <module name="clound-server-eureka7001" />
-        <module name="cloud-consumer-order-zk80" />
+        <module name="cloud-config-center-3344" />
         <module name="cloud-consumer-order-cs80" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-center-3366" target="1.8" />
+      <module name="cloud-config-center-3377" target="1.8" />
+      <module name="cloud-provider-payment-cs8006 (2)" target="1.8" />
+      <module name="cloud-strem-provider8801" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

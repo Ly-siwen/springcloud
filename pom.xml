@@ -26,6 +26,11 @@
       <module>cloud-provider-payment-hx8008</module>
       <module>cloud-consumer-hystrix9001</module>
       <module>cloud-gateway-gateway9527</module>
+    <module>cloud-config-center-3344</module>
+    <module>cloud-config-center-3355</module>
+    <module>cloud-config-center-3388</module>
+    <module>cloud-strem-provider</module>
+    <module>cloud-stream-provider8802</module>
   </modules>
   <packaging>pom</packaging>
 
