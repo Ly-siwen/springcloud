@@ -31,6 +31,9 @@
     <module>cloud-config-center-3388</module>
     <module>cloud-strem-provider</module>
     <module>cloud-stream-provider8802</module>
+      <module>cloud-alibaba-nacos9001</module>
+    <module>cloud-alibaba-nacos9002</module>
+      <module>cloud-alibaba-nacos-order83</module>
   </modules>
   <packaging>pom</packaging>
 
