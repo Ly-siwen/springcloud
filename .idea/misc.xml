@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/cloud-common/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-strem-provider8801/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-stream-provider8803/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-alibaba-nacos-order83/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
