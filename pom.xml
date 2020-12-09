@@ -35,6 +35,7 @@
     <module>cloud-alibaba-nacos9002</module>
       <module>cloud-alibaba-nacos-order83</module>
     <module>cloud-config-nacos3399</module>
+      <module>cloud-alibaba-sentinel8401</module>
   </modules>
   <packaging>pom</packaging>
 

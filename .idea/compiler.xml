@@ -35,6 +35,7 @@
         <module name="cloud-provider-payment-hx8008" />
         <module name="cloud-strem-provider8801" />
         <module name="cloud-consumer-order80" />
+        <module name="cloud-alibaba-sentinel8401" />
         <module name="cloud-config-center-3377" />
         <module name="cloud-strem-provider" />
         <module name="cloud-stream-provider8802 (1)" />
